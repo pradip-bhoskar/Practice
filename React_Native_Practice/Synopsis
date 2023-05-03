@@ -24,3 +24,13 @@ Create First Application:
              --> expo init First_App
              --> cd First_App
              --> npx expo start
+
+important steps:
+-----------------------
+//import libraries to create components
+
+//create component that return some jsx/ simple function
+
+// Create Stylesheet to style the component
+
+//export the file, so that we can use it enywhere in our app
