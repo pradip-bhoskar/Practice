@@ -1,0 +1,26 @@
+Starting React Native:
+*******************************************
+=============================================
+
+ Install node and npm
+ ------------------------
+    terminal --> sudo apt install nodejs
+             --> node -v
+             --> nmp -v
+
+    Install vscode editor to write code for frontend
+    link-->https://code.visualstudio.com/download
+
+
+Setup Expo-cli:
+--------------------
+    terminal --> sudo npm install -g expo-cli
+
+
+Create First Application:
+--------------------------
+    terminal --> npx create-expo-app First_App
+        or
+             --> expo init First_App
+             --> cd First_App
+             --> npx expo start
